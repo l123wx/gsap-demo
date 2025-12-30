@@ -212,7 +212,6 @@ onMounted(() => {
       })
     }
   })
-
 })
 
 onUnmounted(() => {
@@ -391,6 +390,7 @@ onUnmounted(() => {
   transform-origin: left;
   z-index: 1000;
   transform: scaleX(0);
+  width: 100%;
 }
 
 /* Hero Section */
